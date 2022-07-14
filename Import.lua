@@ -7,7 +7,7 @@ step
     +XP Breakdown:
     .showtotalxp >> Total XP prepared:
     .showtotalxp 1 >> Maximum XP possible using the guide on this character:
-step
+ste
 	#sticky
 	+The questlog guide is not fully done yet step by step. It will be out soon. Keep an eye out for an update via our discord.
     .show25quests >> CLICK HERE to see the list of 25 best quests for your character
